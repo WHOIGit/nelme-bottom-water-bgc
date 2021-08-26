@@ -1,0 +1,11 @@
+*.[oa]
+*~
+.ipynb_checkpoints/
+*.bak
+*.csv
+*.h5
+*.npz
+*.xlsx
+*.html
+test*
+log*

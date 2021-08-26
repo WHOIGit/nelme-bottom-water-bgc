@@ -1,0 +1,27 @@
+Satellite data variables:
+
+ADT: Absolute Dynamic Topography is the sea surface height above
+geoid. ADT=SLA+MDT where MDT is the Mean Dynamic Topography.  Units: meters.
+
+UGOS: Zonal component of geostrophic velocity. Units: m/s.
+
+VGOS: Meridional component of geostrophic velocity. Units: m/s.
+
+SLA: Sea Level Anomaly is the sea surface height above mean sea surface. Units:
+meters.
+
+UGOSA: Zonal component of geostrophic velocity anomalies. Units: m/s.
+
+VGOSA: Meridional component of geostrophic velocity anomalies. Units: m/s.
+
+SST: NOAA's 1/4-degree Daily Optimum Interpolation Sea Surface Temperature
+(OISST). Also known as Reynold's SST. Units: Celsius.
+
+SST_hires: Daily Multi-scale Ultra-high Reolution (MUR) SST from JPL (0.01 x
+0.01 degrees resolution). Units: Celsius.
+
+CHL: Blended SeaWiFS & MODIS surface Chlorophyll-a concentration (4.64 Km
+resolution). Units: mg/m^3
+
+
+Ivan Lima - Tue Feb  9 2021 09:00:22 -0500

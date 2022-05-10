@@ -9,3 +9,4 @@
 *.html
 test*
 log*
+.cmems_creds
